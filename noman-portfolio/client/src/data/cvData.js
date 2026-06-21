@@ -1,6 +1,7 @@
 export const cvData = {
   name: "Md. Abdullah Al Noman",
-  title: "Software and Administrative Executive",
+  title: "Software and Administrative Team Lead",
+  title2: "TTouch Clothing",
   subtitle: "Requirement Analyst • Manual Tester • Project Coordinator • Google Sheets Automation Developer",
   email: "alnoman41330@gmail.com",
   phone: "01703778412",
@@ -13,7 +14,7 @@ export const cvData = {
 
   experience: [
     {
-      role: "Software and Administrative Executive",
+      role: "Software and Administrative Team Lead",
       company: "TTouch Clothing",
       duration: "Dec 2024 – Present",
       points: [
