@@ -4,7 +4,7 @@ export const cvData = {
   title2: "TTouch Clothing",
   subtitle: "Requirement Analyst • Manual Tester • Project Coordinator • Google Sheets Automation Developer",
   email: "alnoman41330@gmail.com",
-  phone: "01703778412",
+  phone: "01995003003",
   location: "Basundhara R/A, Dhaka, Bangladesh",
   linkedin: "https://linkedin.com/in/alnoman41330",
   github: "https://github.com/Noman41330",
