@@ -13,31 +13,36 @@ export const cvData = {
     "Hardworking and dedicated professional with a passion for learning new technologies. Experienced in requirement analysis, feature analysis, manual testing, project management, and Google Sheets-based automated systems.",
 
   experience: [
-    {
-      role: "Software and Administrative Team Lead",
-      company: "TTouch Clothing",
-      duration: "Dec 2024 – Present",
-      points: [
-        "Requirement analysis",
-        "Feature analysis",
-        "Manual software testing",
-        "Software development project management",
-        "Google Sheets-based automated system development and maintenance",
-      ],
-    },
-    {
-      role: "Software Quality Assurance Engineer Intern",
-      company: "Dream71 Bangladesh Ltd.",
-      duration: "Jan 2023 – Apr 2023",
-      points: [
-        "Interface testing",
-        "Bug reporting",
-        "Database data upload",
-        "Data cleaning and formatting",
-        "Chatbot training",
-      ],
-    },
-  ],
+  {
+    role: "Software and Administrative Team Lead",
+    company: "TTouch Clothing",
+    companyLogo: "https://ttouch.clothing/wp-content/uploads/2024/12/cropped-TTouch-Logo-1.png",
+    companyUrl: "https://ttouch.clothing/",
+    duration: "Dec 2024 – Present",
+    points: [
+      "Requirement analysis",
+      "Feature analysis",
+      "Manual software testing",
+      "Software development project management",
+      "Google Sheets-based automated system development and maintenance"
+    ]
+  },
+
+  {
+    role: "Software Quality Assurance Engineer Intern",
+    company: "Dream71 Bangladesh Ltd.",
+    companyLogo: "https://dream71.com/wp-content/uploads/2022/03/logo.png",
+    companyUrl: "https://dream71.com/",
+    duration: "Jan 2023 – Apr 2023",
+    points: [
+      "Interface testing",
+      "Bug reporting",
+      "Database data upload",
+      "Data cleaning and formatting",
+      "Requirement validation"
+    ]
+  }
+],
 
   education: [
     {
