@@ -23,13 +23,13 @@ export default function Experience() {
                     rel="noopener noreferrer"
                     className="company-link"
                   >
-                    <img
-                      src={item.companyLogo}
+                    {/* <img
+                      // src={item.companyLogo}
                       alt={item.company}
                       className="company-logo"
-                    />
+                    /> */}
 
-                    <span>{item.company}</span>
+                    <span className="company-name">{item.company}</span>
                   </a>
                 </div>
 
